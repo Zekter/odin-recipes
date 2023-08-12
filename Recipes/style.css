@@ -1,0 +1,23 @@
+h1{
+    color:gold;
+    text-align: center;
+
+}
+body{
+    font-family: Consolas, 'Courier New', monospace;
+    background-color: #2D2B55;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.idk{
+    text-align: center;
+
+}
+a{
+    color:lightgreen
+
+}
+

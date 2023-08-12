@@ -1,0 +1,41 @@
+h1{
+    color:chartreuse;
+    text-align: center;
+}
+body{
+    font-family: Consolas, 'Courier New', monospace;
+    background-color:  #2D2B55;
+}
+
+h2{
+    color: #7Eb09B;
+    text-align: center;
+}
+p{
+    color:beige;
+    text-align: center;
+    font-weight: bold;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.listig{
+    text-align: center;
+    color:bisque
+}
+a{
+    position: fixed;     
+    text-align: left;    
+    bottom: 0px; 
+    width: 100%;
+    color:lightgreen
+}
+.Boom{
+    text-align: center;
+    color:bisque
+}
+.cofe{
+    color:sienna;
+}
