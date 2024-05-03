@@ -1,3 +1,4 @@
 # odin-recipes
 odin project!
-recipes for things i can make, coffee noodles tea and idk.
+recipes for things i can make as part of the odin project
+
